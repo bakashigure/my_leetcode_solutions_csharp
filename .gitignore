@@ -5,3 +5,13 @@
 *.pdb
 *.cache
 *.txt
+bin/Debug/net5.0/Study.deps.json
+bin/Debug/net5.0/Study.runtimeconfig.dev.json
+*.json
+obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+obj/Debug/net5.0/Study.AssemblyInfo.cs
+obj/Debug/net5.0/Study.GeneratedMSBuildEditorConfig.editorconfig
+obj/Study.csproj.nuget.g.props
+obj/Study.csproj.nuget.g.targets
+Study.sln
+Study.csproj
