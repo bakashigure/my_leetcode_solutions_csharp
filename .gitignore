@@ -15,3 +15,11 @@ obj/Study.csproj.nuget.g.props
 obj/Study.csproj.nuget.g.targets
 Study.sln
 Study.csproj
+.vs/leetcode/v16/.suo
+*.v2
+*.editorconfig
+*.targets
+*.props
+obj/Debug/net5.0/leetcode.AssemblyInfo.cs
+leetcode.csproj
+leetcode.sln

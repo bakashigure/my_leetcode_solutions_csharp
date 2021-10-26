@@ -1,4 +1,6 @@
-﻿using System.Linq;
+﻿#if false
+using System.Linq;
+
 
 public class Solution
 {
@@ -13,3 +15,4 @@ public class Solution
         return cnt;
     }
 }
+#endif
